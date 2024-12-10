@@ -1,0 +1,15 @@
+https://github.com/maggu2810/dxx-rebirth/releases/download/20230524-2102/D1X-Rebirth-u2204-x86_64.AppImage
+
+https://github.com/maggu2810/dxx-rebirth/releases/download/20230524-2102/D2X-Rebirth-u2204-x86_64.AppImage
+
+https://f004.backblazeb2.com/file/SoulseekQt/SoulseekQt-2018-1-30-64bit-appimage.tgz
+
+https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240822/Marathon-20240822.flatpak
+
+https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240822/Marathon2-20240822.flatpak
+
+https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240822/MarathonInfinity-20240822.flatpak
+
+http://mirror.team-cymru.com/gnu/emacs/emacs-29.4.tar.gz
+
+https://download.jetbrains.com/python/pycharm-community-2024.2.3.tar.gz?_gl=1*1xe2uvk*_ga*MjU4NjA5NzIuMTcyODY5NDU3Ng..*_ga_9J976DJZ68*MTcyODY5NDU3NS4xLjEuMTcyODY5NDYzNi4wLjAuMA..

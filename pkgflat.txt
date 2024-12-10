@@ -1,0 +1,9 @@
+com.bitwarden.desktop
+com.rafaelmardojai.Blanket
+com.valvesoftware.Steam
+com.valvesoftware.Steam.CompatibilityTool.Proton-GE
+dev.gbstudio.gb-studio
+io.github.zen_browser.zen
+org.audacityteam.Audacity
+org.kde.kdenlive
+org.flathub.flatpak-external-data-checker
