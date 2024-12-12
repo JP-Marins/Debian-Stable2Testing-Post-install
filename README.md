@@ -18,7 +18,7 @@ chmod +x setup.sh
 ```
 
 ```
-su setup.sh
+sh setup.sh
 ```
 
 O primeiro comenado tornará o arquivo "setup.sh" um executável, e o segundo o irá executar via terminal.
